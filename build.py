@@ -3,5 +3,5 @@
 import time
 
 print("Script started.")
-time.sleep(60)
+time.sleep(15)
 print("Script finished")
